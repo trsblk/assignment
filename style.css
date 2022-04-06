@@ -125,7 +125,7 @@ img.centered {
 .positioning {
   position: absolute;
   top: 10px;
-  left: 80%;
+  left: 77%;
 }
 
 .position-relative {
@@ -138,4 +138,15 @@ img.centered {
   #column-remove-left-padding-3 {
     padding-left: 12px;
   }
+}
+
+/* JS Fun */
+#row-1,
+#row-2,
+#row-3 {
+  transition: opacity 2s;
+}
+
+.hidden {
+  opacity: 0;
 }
