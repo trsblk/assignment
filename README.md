@@ -6,3 +6,5 @@ Darüber hinaus habe ich auch versucht, Responsive Design zu implementieren. (kl
 Die HTML-Datei versuchte ich lesbar zu machen, indem ich kommentierte, wo genau die einzelnen Sektionen anfangen. 
 
 Ich habe auch einen kleinen JS-Teil implementiert. 
+
+LINK: https://trsblk.github.io/assignment/
