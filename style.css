@@ -7,6 +7,8 @@
   box-sizing: border-box;
 }
 
+/* HTML ELEMENTS */
+
 body {
   font-family: 'Open Sans', sans-serif;
   background-color: #07574c;
@@ -25,11 +27,12 @@ img {
 img.centered {
   width: 100px;
   height: 100px;
-  background-color: white;
   padding: 10px;
   border-radius: 50%;
   transform: translateY(-60px);
 }
+
+/* CSS CLASSES */
 
 .container {
   padding: 0;
@@ -132,6 +135,7 @@ img.centered {
   position: relative;
 }
 
+/* Media queries  */
 @media (max-width: 900px) {
   #column-remove-left-padding,
   #column-remove-left-padding-2,
@@ -140,7 +144,7 @@ img.centered {
   }
 }
 
-/* JS Fun */
+/* JS Part */
 #row-1,
 #row-2,
 #row-3 {
